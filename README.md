@@ -1,2 +1,3 @@
 # shangyu_li.github.io
-portfolio
+portfolio page
+resume
